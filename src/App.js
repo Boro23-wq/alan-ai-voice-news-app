@@ -7,7 +7,7 @@ import wordsToNumbers from 'words-to-numbers';
 import useStyles from './styles.js';
 
 const alanKey =
-  'e3eee89f196b5ae2676c2f16333310e22e956eca572e1d8b807a3e2338fdd0dc/stage';
+  '<YOUR ALAN KEY>;
 
 const App = () => {
   const [newsArticles, setNewsArticles] = useState([]);
